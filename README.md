@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To Start the backend server
+
+cd backend
+### `nodemon server`
+
 In the project directory, you can run:
 
 ### `npm start`
