@@ -1,0 +1,10 @@
+.nav-item {
+  padding: 0 30px;
+}
+.nav-item a {
+  font-style: none;
+}
+.searchbar {
+  float: right;
+  margin-bottom: 30px;
+}
